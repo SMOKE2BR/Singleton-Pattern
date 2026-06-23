@@ -10,6 +10,11 @@ O **Singleton** é um padrão criacional que garante que uma classe tenha **apen
 - `ConfiguracaoSistema.java` → Classe Singleton que mantém informações de configuração.
 - `Main.java` → Classe principal para testar o Singleton.
 
+  ***DIAGRAMA DE CLASSES***
+
+<img width="455" height="447" alt="Singleton" src="https://github.com/user-attachments/assets/fbed6e45-3cd8-43a7-acb8-19ebd104b720" />
+
+
 ## 📂 Exemplo de uso
 ```java
 ConfiguracaoSistema config = ConfiguracaoSistema.getInstance();
